@@ -388,22 +388,22 @@ header {
   }
 }
 
-.progress-line .html {
+.progress-line .p {
   width: 80%;
 }
-.progress-line .css {
+.progress-line .html {
   width: 70%;
 }
-.progress-line .bootstrap {
+.progress-line .css {
   width: 50%;
 }
 .progress-line .javascript {
   width: 50%;
 }
-.progress-line .c {
+.progress-line .sql {
   width: 80%;
 }
-.progress-line .p {
+.progress-line .c {
     width: 50%;
   }
 
